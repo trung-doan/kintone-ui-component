@@ -1,3 +1,7 @@
 node_modules/
 .cache
 coverage
+dist/
+docs/site/
+docs/*/site/
+esm/
